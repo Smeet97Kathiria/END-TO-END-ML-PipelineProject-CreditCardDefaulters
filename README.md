@@ -11,7 +11,7 @@ To build a classification methodology to determine whether a person defaults the
 
 <p align="center">
   <img src="NumPy_logo.svg" alt="Numpy" style="vertical-align:top; margin:4px">    
-  <img src="https://github.com/Smeet97Kathiria/END-TO-END-ML-PipelineProject-CreditCardDefaulters/blob/main/Pandas_logo.svg" alt="Pandas" style="vertical-align:top; margin:6px 4px">
+  <img src="https://github.com/Smeet97Kathiria/END-TO-END-ML-PipelineProject-CreditCardDefaulters/blob/main/Pandas_logo.svg" alt="Pandas" style="vertical-align:top; margin:6px 4px height="24" width="48">
   <img src="https://github.com/Smeet97Kathiria/END-TO-END-ML-PipelineProject-CreditCardDefaulters/blob/main/SQLite370.svg" alt="SQlite" style="vertical-align:top; margin:4px">
   <img src="https://github.com/Smeet97Kathiria/END-TO-END-ML-PipelineProject-CreditCardDefaulters/blob/main/PyCharm_Logo.svg" alt="PyCharm" style="vertical-align:top; margin:4px">
 </p>
