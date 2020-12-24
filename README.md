@@ -20,5 +20,4 @@ To build a classification methodology to determine whether a person defaults the
 
 
 ### Algorithms Used ###
-
 ## KMeans, Naïve Bayes, XGBoost, GridSearch ,AUC Scores ##
